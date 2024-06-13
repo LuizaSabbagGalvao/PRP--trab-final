@@ -1,0 +1,17 @@
+Coluna;Sexo Trabalhador
+Município-São Paulo;Não Informado;Masculino;Feminino;Ignorado;{ñ class}
+350010;n/d;5422;5023;n/d;n/d
+350020;n/d;472;382;n/d;n/d
+350030;n/d;4372;2612;n/d;n/d
+350040;n/d;550;433;n/d;n/d
+350050;n/d;2522;2083;n/d;n/d
+350055;n/d;965;560;n/d;n/d
+350060;n/d;633;683;n/d;n/d
+350070;n/d;4987;3535;n/d;n/d
+350075;n/d;516;457;n/d;n/d
+350080;n/d;556;355;n/d;n/d
+
+Seleções vigentes
+Variável;Critério;Valor
+Ano;igual a;2018
+Vínculo Ativo 31/12;igual a;Sim
